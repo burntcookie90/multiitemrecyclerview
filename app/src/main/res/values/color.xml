@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fruit_bg">#E53935</color>
+    <color name="veg_bg">#43A047</color>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fruits">
+        <item>Açai Berries</item>
+        <item>Apple</item>
+        <item>Apricot</item>
+        <item>Avocado</item>
+        <item>Banana</item>
+        <item>Bilberry</item>
+        <item>Blackberry</item>
+        <item>Blackcurrant</item>
+        <item>Blueberry</item>
+        <item>Boysenberry</item>
+        <item>Cantaloupe</item>
+        <item>Currant</item>
+        <item>Cherry</item>
+        <item>Cherimoya</item>
+        <item>Cloudberry</item>
+        <item>Coconut</item>
+        <item>Cranberry</item>
+        <item>Damson</item>
+        <item>Date</item>
+        <item>Dragonfruit</item>
+    </string-array>
+
+    <string-array name="vegetables">
+        <item>Artichoke</item>
+        <item>Arugula</item>
+        <item>Asparagus</item>
+        <item>Bok choy</item>
+        <item>Broccoflower</item>
+        <item>Broccoli</item>
+        <item>Brussels sprouts</item>
+        <item>Cabbage</item>
+        <item>Calabrese</item>
+    </string-array>
+
+</resources>
